@@ -1,0 +1,19 @@
+﻿Array : It is variable which can be used to store no of elements in  a sequential order
+of same data type
+			or
+It is the collection of homogenious elements.
+
+Array can be represented  with square braces[ ]
+array Index starts from 0
+Arrays are 3 types
+1.single dimensional array
+2.Rectaangular array or Multidimensional array
+3.Jagged Array
+
+
+var is keyword which can be recive the data and behaves like same data
+
+var x = 10;
+int[] ar = {10,34,90}
+var x = ar;
+x is behaving

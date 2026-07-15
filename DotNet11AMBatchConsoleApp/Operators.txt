@@ -1,0 +1,48 @@
+﻿Conditional Operator(Ternary Operator)
+		? : is called conditional Operators
+===============================================
+1.Unary Operators
+2.Binary Operators
+3.Teranary Operators
+=============================================
+
+
+4 +  5
+
+"aa"  + "bb"
+
+6.7  + 7.8
+In the above example + is operator
+4,5, "aa" , "bb" 6.7,7.8 operands
+
+Unary Operators:
+	If any operators user only one Operand is called
+	unary opeators
+	-10      -,++,--,! are unary opertors
+	-40
+	7.8
+	a++
+	++b
+	--b
+	b--
+Binary Operators:
+If any operators has two operands then that the operator
+can be called binary operator
++ >   +=   
+- <   -=
+* >=  *=
+/ <=
+% ==
+  !=
+Ternary Operator :
+	If any operators uses three operands then the operator
+	is called Ternary operator.
+	? :
+	con ? stmt1 : stmt2
+
+	case 1 : con-T compiler executes stmt1
+	case 2 : con-F compiler executes stmt2
+
+
+
+

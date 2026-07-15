@@ -1,0 +1,134 @@
+﻿num = 5    1 2 3 4 5
+num = 10   1 2 3 4 5 6 7 8 9 10  
+
+num = 5  5 4 3 2 1
+
+num=-5   - 1  -2  -3 - 4 -5
+num=-5    -5 - 4 -3 -2 -1
+num = 10  1 4 9 16 25 36 49 64 81 100
+num = 20  2 4 6 8 10 12 14 16 18 20
+
+1.Sum of N nums  ?
+	Example num = 5  sum = 1+2+3+4+5=> sum = 15
+	steps :
+		1. Generate numbers
+		2. Add the Numbers
+
+2. Find the Factorial of a given number ?
+	num = 5			1 x 2 x 3 x 4 x 5 = 120
+		Steps : Generate numbers
+		        Multiply the number
+				=================
+1.Separating the digits of a given number ?
+	num = 345    Ans: 5 4 3
+2.Counting the digits of a given number ?
+	num = 345     Ans : 3 digits
+	num = 54678   Ans : 5 digits
+3.Sum of the digits of a given number ?
+	num = 123    sum =  1+2+3 => 6
+	num = 456    sum = 15
+4.Avg of the digits of a given number ?
+	num = 345       Avg : 15/3 => Avg : 5
+	num = 45678     Avg : 30/5 => Avg : 6
+5.Find the Max digit of a given number ?
+	num = 564  max digit = 6
+	num = 132  max digit = 3
+6. Find the Min digit of a given number ?
+	num = 123  Min digit = 1
+	num = 547  Min digit = 4
+7. Find the Reverse of a given number ?
+	num = 123  Reverse = 321
+	num = 134  Reverse = 431
+8.Check given number is Palindrome or not ?
+	num = 123    Reverse = 321  123 is not a Palindrome Number
+	num = 121	 Reverse = 121  121 is a Palindrome Number.
+
+9.Sum of the squres of a given number?
+	num = 123   sum = 1*1+2*2+3*3=> 1+4+9 => sum = 15
+
+
+
+10.Check given number is Strong or not ?
+	num = 145      1!+4!+5!=> 1+24+120=> 145 Given number is Strong number
+
+11. Write a program to check given number Armstong or not ?
+	num = 153	sum = 1cube+5cube+3cube=> 1+125+27=> 153 given number is Armstrong.
+	num = 1634	sum = 1pow4+6pow4+3pow4+3pow4 => 1634 given number is Armstrong.
+
+	1. Take the Number.
+	2. Count the Digits(power)
+	3. Separate the  digit and find the Powervalue
+	4. Sum of the Power values
+	5. Compare with Sum with the Number.
+
+==============================================================Factors===================================
+1.Write Progrm to find the factors for the given number  ?
+num = 12  factors : 1,2,3,4,6,12.
+num = 8	  factors : 1,2,4,8
+
+2.Write Program to find the factors count of a given numbber ?
+num = 12		res : 12 has 6 factors
+nujm = 8		res : 8 has 4 factors
+
+3.Write a proram to find the sum of the factors of a given number ?
+num = 12	sum = 1+2+3+4+6+12=>28
+num = 8		sum = 1+2+4+8 => 15
+
+4.Write a program to find the Average of the factors ?
+
+num = 12	Avg = 28/6 => 4.
+
+
+5. Write a program to check given number is Prime or Not ?
+	num = 5				1,5 factors count = 2  5 is prime number
+	num = 8									   8 is not a Primenumber
+6. Write a program to check given number is Perfect or not ?
+	num = 6			factors = 1,2,3		1+2+3=>6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+﻿if(con){
+	stmts-1
+}else{
+	stmts-2
+}
+
+case 1 : con-True compiler Executes stmts-1
+case 2 : con-False compiler Executes stmts-2
