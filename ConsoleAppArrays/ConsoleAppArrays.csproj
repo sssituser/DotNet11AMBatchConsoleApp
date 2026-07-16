@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B4137F25-FC7E-4DE0-8902-069692A44E55}</ProjectGuid>
+    <ProjectGuid>{C02DED17-E58F-47A0-A382-7F0A6BBB9033}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LoopsProject</RootNamespace>
-    <AssemblyName>LoopsProject</AssemblyName>
+    <RootNamespace>ConsoleAppArrays</RootNamespace>
+    <AssemblyName>ConsoleAppArrays</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>LoopsProject.Class33</StartupObject>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,38 +43,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Class10.cs" />
-    <Compile Include="Class11.cs" />
-    <Compile Include="Class12.cs" />
-    <Compile Include="Class13.cs" />
-    <Compile Include="Class14.cs" />
-    <Compile Include="Class15.cs" />
-    <Compile Include="Class16.cs" />
-    <Compile Include="Class17.cs" />
-    <Compile Include="Class18.cs" />
-    <Compile Include="Class19.cs" />
-    <Compile Include="Class2.cs" />
-    <Compile Include="Class20.cs" />
-    <Compile Include="Class21.cs" />
-    <Compile Include="Class22.cs" />
-    <Compile Include="Class23.cs" />
-    <Compile Include="Class3.cs" />
-    <Compile Include="Class4.cs" />
-    <Compile Include="Class5.cs" />
-    <Compile Include="Class6.cs" />
-    <Compile Include="Class7.cs" />
-    <Compile Include="Class8.cs" />
-    <Compile Include="Class9.cs" />
+    <Compile Include="Class24.cs" />
+    <Compile Include="Class25.cs" />
+    <Compile Include="Class26.cs" />
+    <Compile Include="Class27.cs" />
+    <Compile Include="Class28.cs" />
+    <Compile Include="Class29.cs" />
+    <Compile Include="Class30.cs" />
+    <Compile Include="Class31.cs" />
+    <Compile Include="Class32.cs" />
+    <Compile Include="Class33.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="TextFile1.txt" />
-    <Content Include="TextFile2.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
