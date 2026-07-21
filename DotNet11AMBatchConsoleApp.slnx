@@ -4,4 +4,5 @@
   <Project Path="ConsoleAppArrays/ConsoleAppArrays.csproj" Id="c02ded17-e58f-47a0-a382-7f0a6bbb9033" />
   <Project Path="DotNet11AMBatchConsoleApp/DotNet11AMBatchConsoleApp.csproj" Id="b441d71c-a9a5-4a1f-8262-493dda5888b2" />
   <Project Path="LoopsProject/LoopsProject.csproj" Id="b4137f25-fc7e-4de0-8902-069692a44e55" />
+  <Project Path="Methods/Methods.csproj" Id="00f276e1-cff8-4e39-b13a-7e2230bc9796" />
 </Solution>

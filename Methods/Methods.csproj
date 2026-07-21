@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C02DED17-E58F-47A0-A382-7F0A6BBB9033}</ProjectGuid>
+    <ProjectGuid>{00F276E1-CFF8-4E39-B13A-7E2230BC9796}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleAppArrays</RootNamespace>
-    <AssemblyName>ConsoleAppArrays</AssemblyName>
+    <RootNamespace>Methods</RootNamespace>
+    <AssemblyName>Methods</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleAppArrays.JaggedArray</StartupObject>
+    <StartupObject>Methods.Class2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,24 +48,6 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Class2.cs" />
-    <Compile Include="Class24.cs" />
-    <Compile Include="Class25.cs" />
-    <Compile Include="Class26.cs" />
-    <Compile Include="Class27.cs" />
-    <Compile Include="Class28.cs" />
-    <Compile Include="Class29.cs" />
-    <Compile Include="Class3.cs" />
-    <Compile Include="Class30.cs" />
-    <Compile Include="Class31.cs" />
-    <Compile Include="Class32.cs" />
-    <Compile Include="Class33.cs" />
-    <Compile Include="Class4.cs" />
-    <Compile Include="Class5.cs" />
-    <Compile Include="Class6.cs" />
-    <Compile Include="Class7.cs" />
-    <Compile Include="Class8.cs" />
-    <Compile Include="Class9.cs" />
-    <Compile Include="JaggedArray.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,0 +1,30 @@
+﻿Method (Function) : It is a self contained block of stmts or instructions, which can be 
+used to pefrorm Paraticular task is called a method.
+
+Methods are of two types
+
+
+1. Predefined Methods :
+		The methods which present in the .dll files or predefined namespaces  or public Assmeblies
+		are called Predefined Methods.
+
+		Example : Console.WriteLine()
+				  Console.ReadLine() etc......
+
+		String is a class, In order to work with the strings we use predefined methods of
+		a string class.
+
+		String is immutable.
+		Class can hold both static methods and non static methods
+		static methods can be called using className
+		non static methods can be called using object.
+
+
+2. User defined Methods : The mehods which are defined by the developers in the Applications.
+	
+
+
+
+
+
+
