@@ -20,12 +20,6 @@ namespace Methods
             Console.WriteLine(string.Compare("b","a"));
             Console.WriteLine(string.Compare("a","a"));
 
-
-
-
-
-
-
         }
     }
 }
