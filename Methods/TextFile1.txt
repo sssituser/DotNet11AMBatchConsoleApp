@@ -20,7 +20,43 @@ Methods are of two types
 		non static methods can be called using object.
 
 
-2. User defined Methods : The mehods which are defined by the developers in the Applications.
+2. User defined Methods : The mehods which are defined by the developers in the Applications re
+called user defined metods.
+	
+	1.Define
+		AccessModifer RetrunType MethodName(Parameters){
+			return val;
+		}
+
+
+		1.AccessModifer : public static
+		2.ReturnTypes   : any
+		3.MethodName	: MeaningFul, It Should give the recemble the task
+		4.ParaMeters	: void,string,int ...any
+
+	2.call(Consuming the Method)
+
+
+	Write a program to add to numbers.
+
+	AM : public static
+	MN : Add,Sum
+	RT : int-1
+	PM : 2 integers
+
+	public static int Sum(int num1,int num2){
+		num1+num2
+	}
+
+	AM : public static
+	MN : Sub,Diff
+	RT : int
+	PM : 2-integers
+
+	public static int Diff(int num1,int num2){
+		num1-num2;
+	}
+
 	
 
 

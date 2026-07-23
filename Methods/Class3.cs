@@ -25,5 +25,5 @@ namespace Methods
             string s3 = "abg";
             Console.WriteLine(s2.CompareTo(s3));
         }
-    }
+    }   
 }
