@@ -34,7 +34,7 @@ namespace UserDefinedMethods
     // GetLuckNumber
     // NameScore
     // AsciiSum
-    // SpinningArray
+   
 
 
 

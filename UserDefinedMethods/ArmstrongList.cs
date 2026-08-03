@@ -26,7 +26,9 @@ namespace UserDefinedMethods
             return res.Substring(0, res.Length - 1)+".";
         }
 
-        private static bool IsArmstrong(long num)
+
+
+        public  static bool IsArmstrong(long num)
         {
             long pow = DigitCount(num);
             long sum = 0;
