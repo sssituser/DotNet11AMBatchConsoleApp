@@ -5,5 +5,6 @@
   <Project Path="DotNet11AMBatchConsoleApp/DotNet11AMBatchConsoleApp.csproj" Id="b441d71c-a9a5-4a1f-8262-493dda5888b2" />
   <Project Path="LoopsProject/LoopsProject.csproj" Id="b4137f25-fc7e-4de0-8902-069692a44e55" />
   <Project Path="Methods/Methods.csproj" Id="00f276e1-cff8-4e39-b13a-7e2230bc9796" />
+  <Project Path="OOPSConsoleApp/OOPSConsoleApp.csproj" Id="d0ee80ff-8cd9-4f29-b5ff-bcf18241a5d8" />
   <Project Path="UserDefinedMethods/UserDefinedMethods.csproj" Id="34454861-8c35-42c7-9d38-e19a6cbf6552" />
 </Solution>
