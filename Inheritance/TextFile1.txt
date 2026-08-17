@@ -1,0 +1,14 @@
+﻿Constructor : It is special method.
+              It will not return type.
+              Its name className both Same.
+              Contructor will be invoked autmatically when the object is created.
+              Constructor can be used to create the object.
+              It is of different types.
+               Instance constructor
+                 Instance constructor can be invoked for every object
+                 Constructor with paramter is Called Default Constructor
+                 Parameterised Constructor
+               
+               
+               static constructor
+                 static constructor can be invoked only once

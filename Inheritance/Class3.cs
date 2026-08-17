@@ -9,7 +9,7 @@ namespace Inheritance
         public static void Main(string[] args)
         {
             Employee emp = new Employee();
-            emp.SetEmployee(111, "aaaa");
+            emp.SetEmployee(111, "aaaa",5000);
             emp.GetEmployee();
 
 
