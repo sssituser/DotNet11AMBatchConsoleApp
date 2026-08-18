@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Inheritance.Class4</StartupObject>
+    <StartupObject>Inheritance.Class5</StartupObject>
   </PropertyGroup>
 
 </Project>

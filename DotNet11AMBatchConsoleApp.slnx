@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/Solution Items/" />
   <Project Path="ConditionalStatements/ConditionalStatements.csproj" Id="0f2ce4c6-b337-4f1e-9233-10939ecedd83" />
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="11938f91-4f81-4ca8-bded-60f5a27fd0fa" />
   <Project Path="ConsoleAppArrays/ConsoleAppArrays.csproj" Id="c02ded17-e58f-47a0-a382-7f0a6bbb9033" />
   <Project Path="DotNet11AMBatchConsoleApp/DotNet11AMBatchConsoleApp.csproj" Id="b441d71c-a9a5-4a1f-8262-493dda5888b2" />
   <Project Path="Inheritance/Inheritance.csproj" Id="93bd3610-044c-43a2-aa66-87857f2bf1f1" />

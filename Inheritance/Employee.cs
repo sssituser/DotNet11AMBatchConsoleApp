@@ -7,7 +7,8 @@ namespace Inheritance
     internal class Employee
     {
         public int EmployeeId { get; set; }
-        public  string  ? EmployeeName { get; set; }
+
+        public string? EmployeeName { get; set; }
 
         public int EmployeeSalary { get; set; }
 
@@ -15,7 +16,7 @@ namespace Inheritance
         {
             Console.WriteLine("Hi Iam non static Constrctor with out paramter");
         }
-        public Employee(int EmployeeId,string EmployeeName,int EmployeeSalary)
+        public Employee(int EmployeeId, string EmployeeName, int EmployeeSalary)
         {
             Console.WriteLine("Hi Iam Constructor with parameters");
             this.EmployeeId = EmployeeId;
@@ -25,27 +26,28 @@ namespace Inheritance
         public Employee(Employee emp)
         {
             Console.WriteLine("Hi Iam Copy Constructor");
-            this.EmployeeId= emp.EmployeeId;
-            this.EmployeeName= emp.EmployeeName;
-            this.EmployeeSalary= emp.EmployeeSalary;
+            this.EmployeeId = emp.EmployeeId;
+            this.EmployeeName = emp.EmployeeName;
+            this.EmployeeSalary = emp.EmployeeSalary;
         }
-        static Employee()
+        
+        ~Employee()
         {
-            Console.WriteLine("Hi Iam Static Constructor");
+            Console.ReadLine();
+            Console.ReadLine();
+            Console.WriteLine("Object Destroyed....");
         }
-        public void SetEmployee(int EmployeeId,string EmployeeName, int EmployeeSalary)
+        public void SetEmployee(int EmployeeId, string EmployeeName, int EmployeeSalary)
         {
             this.EmployeeId = EmployeeId;
             this.EmployeeName = EmployeeName;
             this.EmployeeSalary = EmployeeSalary;
-            
+
         }
         public void GetEmployee()
         {
             Console.WriteLine($"Employee ID : {EmployeeId}\tEmployee Name : {EmployeeName}\tEmployee Salary : {EmployeeSalary}");
         }
-
-
 
     }
 }
