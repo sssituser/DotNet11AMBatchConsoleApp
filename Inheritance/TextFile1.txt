@@ -22,7 +22,7 @@ Destructor :
             It will be called automaically after completing the functionalites of the object.
 
 
-base : In order to access  parent class methdos and to transfer the data from child class constructor to parent class constructor
+base : In order to access  parent class methdos and to transfer the data from child class constructor to parent class constructor.
 
 
 

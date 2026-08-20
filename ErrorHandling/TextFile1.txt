@@ -1,0 +1,35 @@
+﻿
+			==========Error Handling=========
+Errors are the mistakes in the program.
+These mistakes will not allow the program to compile, hence these errors
+are called compilation Errors.
+
+To Solve these Error we need provide the proper syntax,
+Then the error will be resolved.
+Every Compiler Error will denoted with a number.
+
+
+The erros which can occur during the execution of the program are called
+Runtime Errors.
+Runtime Errors are also called Exceptions.
+
+Exception Can Cause Abnormal Termination of the application.
+
+Exceptions are predefined clasess which are inherited from Exception Parent class.
+
+In order to handle the exceptions we use
+
+try :
+	try  is a block in which we write risky code(The code
+	in which we excpect Exceptions).
+	try block tries to execute the code,
+	if it is not , it raises the exception objects internally.
+	try block can't be wirtten ideally.
+
+	try block must be follwed with either catch block or 
+	finally block.
+
+
+catch
+throw
+finally
