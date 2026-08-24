@@ -7,7 +7,7 @@ are called compilation Errors.
 To Solve these Error we need provide the proper syntax,
 Then the error will be resolved.
 Every Compiler Error will denoted with a number.
-
+====================================Exception=================================
 
 The erros which can occur during the execution of the program are called
 Runtime Errors.
@@ -30,6 +30,35 @@ try :
 	finally block.
 
 
-catch
-throw
-finally
+catch :
+		It is a block which can be used catch the exception objects which are 
+		raised in the try block
+
+
+		It is of two types.
+		1. Individual Catch block :
+			It is a block which can catch particular Exception object.
+			It can be used to provide suitable messages client(enduser).
+			An Individual catch block must be written above the common catch block.
+			If we write after common catch block we get Compilation Error
+			Example :
+				FormatException
+				DivideByZeroException
+				SQLException
+		2. Common Catch block: It is a block which can catch all the exception 
+		objects which are raised in the try block.
+
+		A catch block without any Exception Object 
+		A catch block with Exception object is called common catch block.
+throw :
+		It is  a statment which is used to throw known exception objects to
+		suitable catch block Externally Extenrally.
+		It is not compulsary.
+
+finally : It is a block which can be exected after executing try and catch block
+		 successfully.
+
+		 It is used to generate common messages to the end user we this block.
+		 =============================================================
+					Custom Exception
+		================================================================
