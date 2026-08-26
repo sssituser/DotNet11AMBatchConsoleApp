@@ -1,0 +1,16 @@
+﻿File : It is the collection information having a title is called as File.
+In the file we write,read and append information.
+In file handling concepts we take about
+1.creation of file
+2.deletion of file
+3.storing information inside file
+4.Reaing  the info from the file
+5.Appending the info for the existing file
+7.Create folders,delete folders,
+8.Finding the information aabout Drives.
+9.Finding the inforatio about the folders
+10.Finding the ifomration aobut the files
+
+In order work with the file handling we use the namespace called System.IO
+This namespace consists of classes called, FileStream ,File,Directory,FileInfo,DirectoryInfo,
+StreamWrter, StreamReader etc.

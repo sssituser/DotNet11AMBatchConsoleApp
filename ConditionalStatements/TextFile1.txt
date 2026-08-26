@@ -1,0 +1,14 @@
+﻿Program can be executed on the RAM.
+Suppoce lets assume RAM Mem 16 GB
+On this RAM
+It Creates Two Memories
+
+1.Stack :
+	It is a memory which can be used for method execution.
+	It will allocate memory for Value Types Data.
+	Exception we get StackOverFlowException
+	Stack Memory Can occupy half of the memory of the RAM(8GB)
+2.Heap :
+	It is memormy is memory which stores reference type data,objects
+	can store.
+	It also will occupy the half the memory of the RAM.

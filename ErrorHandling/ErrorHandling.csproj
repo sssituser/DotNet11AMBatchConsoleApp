@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ErrorHandling.Class1</StartupObject>
+    <StartupObject>ErrorHandling.Class2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Class2.cs" />
     <Compile Include="InvalidMarksException.cs" />
     <Compile Include="InvalidAgeException.cs" />
     <Compile Include="Program.cs" />
