@@ -1,6 +1,6 @@
-﻿using System;
+﻿using System; // Console. 
 using System.Collections.Generic;
-using System.IO;
+using System.IO; // File , Drive ,Directory, .dll(Dynamic Link Lib)
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
