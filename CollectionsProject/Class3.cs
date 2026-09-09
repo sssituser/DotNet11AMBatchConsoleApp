@@ -31,7 +31,6 @@ namespace CollectionsProject
             {
                 Console.WriteLine(item);
             }
-
         }
     }
 }
