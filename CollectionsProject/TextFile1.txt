@@ -1,0 +1,15 @@
+﻿Mapping : It is a class which can allow two values to add the object,
+we can retrieve the value from other value.
+In the maping one of the value can be called as key
+and the othr value can be as the pair value key.
+
+In the maping we can have key and value(key-valuepairs), In order to 
+retrieve the value , value is dependent on key.
+
+Hence keys can't duplicate , can't be null value.
+but values can be duplicate. can't be null.
+
+In order to work with mapping we use classes
+SortedList
+Dictonary
+Soreted Dictonary.
