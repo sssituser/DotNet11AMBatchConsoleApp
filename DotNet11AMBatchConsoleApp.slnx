@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Solution Items/" />
+  <Project Path="AdoCode/AdoCode.csproj" Id="e0dfd2fb-979e-432b-b5db-e502d029f91f" />
   <Project Path="CollectionsProject/CollectionsProject.csproj" Id="ddd35a65-da92-4a13-a0be-609d2685975b" />
   <Project Path="ConditionalStatements/ConditionalStatements.csproj" Id="0f2ce4c6-b337-4f1e-9233-10939ecedd83" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="11938f91-4f81-4ca8-bded-60f5a27fd0fa" />
