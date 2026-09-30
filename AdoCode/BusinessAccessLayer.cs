@@ -10,7 +10,7 @@ namespace AdoCode
         SqlConnection con;
         SqlCommand cmd;
         SqlDataReader dr;
-        DataTable dt;
+       
         public BusinessAccessLayer ()
         {
             con = new SqlConnection("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=sneha;Integrated Security=True;Encrypt=False");
@@ -55,7 +55,6 @@ namespace AdoCode
             con.Open();
             dr = cmd.ExecuteReader();
             return dr;
-
         }
         public bool CheckEmployee (int id)
         {
@@ -64,7 +63,7 @@ namespace AdoCode
             con.Open();
             int res = Convert.ToInt32(cmd.ExecuteScalar());
             con.Close();
-            return (res > 0);
+            return res > 0;
         }
 
     }
